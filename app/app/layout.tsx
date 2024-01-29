@@ -2,10 +2,10 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-import Header from "../../src/components/Header";
-import HomeSlider from "./SliderSection";
+import Header from "../src/components/Header";
+import HomeSlider from "../pages/home/SliderSection";
 
-import Logo from "../../public/images/logo/logo-dark.svg";
+import Logo from "../public/images/logo/logo-dark.svg";
 
 const Home = () => {
   return (
