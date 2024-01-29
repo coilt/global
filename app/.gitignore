@@ -50,7 +50,11 @@ backups
 
 
 mcg_01
-mcg_*
+mcg_01
+mcg_02
+
+
+node_modules/
 
 
 node_modules/
