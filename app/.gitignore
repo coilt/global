@@ -49,4 +49,8 @@ next-env.d.ts
 backups
 
 
+mcg_01
 mcg_*
+
+
+node_modules/
