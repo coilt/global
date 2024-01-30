@@ -83,8 +83,6 @@ function Layout({ children }) {
     return <ProjectDetails />;
   } else if (router.pathname === "/blog") {
     return <Blog />;
-  } else if (router.pathname === "/blog/blog-left-sidebar") {
-    return <BlogLeftSidebar />;
   } else if (router.pathname === "/blog/blog-right-sidebar") {
     return <BlogRightSidebar />;
   } else if (router.pathname === "/blog/blog-left-thumb") {
