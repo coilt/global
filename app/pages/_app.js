@@ -2,30 +2,17 @@ import { useRouter } from "next/router";
 
 import SwiperCore, { Navigation, Pagination, Parallax } from "swiper";
 
-import Home from "../pages/home";
-import About from "../pages/about";
+import Home from "./home";
+import About from "./about";
 import Service from "./services";
 import ImageGallery from "./image-gallery";
-import Team from "../pages/team";
-import Project from "../pages/project";
-import ProjectStandard from "../pages/project/project-standard";
-import ProjectMasonary from "../pages/project/project-masonary";
-import ProjectGrid from "../pages/project/project-grid";
-import ProjectGridTwo from "../pages/project/project-grid-2";
-import ProjectDetails from "../pages/project/[slug]";
-import Blog from "../pages/blog";
-import SinglePost from "./blog/[slug]";
-import BlogRightSidebar from "../pages/blog/blog-right-sidebar";
-import BlogLeftThumb from "../pages/blog/blog-left-thumb";
-import BlogRightThumb from "../pages/blog/blog-right-thumb";
-import BlogRandomThumb from "../pages/blog/blog-random-thumb";
-import Contact from "../pages/contact";
-import Shop from "../pages/shop";
-import ProductDetails from "../pages/shop/[slug]";
-import CartPage from "../pages/shop/cart";
-import CheckoutPage from "../pages/shop/checkout";
+import Team from "./team";
+import Project from "./project";
+import ProjectStandard from "./project/project-standard";
+import ProjectGridTwo from "./project/project-grid-2";
+import Contact from "./contact";
 import MyAccount from "./shop/account";
-import ErrorPage from "../pages/404";
+import ErrorPage from "./404";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "jquery/dist/jquery.min.js";
@@ -48,14 +35,6 @@ function Layout({ children }) {
     return <Home />;
   } else if (router.pathname === "/home-2") {
     return <HomeTwo />;
-  } else if (router.pathname === "/home-3") {
-    return <HomeThree />;
-  } else if (router.pathname === "/home-4") {
-    return <HomeFour />;
-  } else if (router.pathname === "/home-5") {
-    return <HomeFive />;
-  } else if (router.pathname === "/home-6") {
-    return <HomeSix />;
   } else if (router.pathname === "/about") {
     return <About />;
   } else if (router.pathname === "/services") {
