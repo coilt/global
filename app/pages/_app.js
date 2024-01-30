@@ -3,11 +3,6 @@ import { useRouter } from "next/router";
 import SwiperCore, { Navigation, Pagination, Parallax } from "swiper";
 
 import Home from "../pages/home";
-import HomeTwo from "../pages/home-2";
-import HomeThree from "../pages/home-3";
-import HomeFour from "../pages/home-4";
-import HomeFive from "../pages/home-5";
-import HomeSix from "../pages/home-6";
 import About from "../pages/about";
 import Service from "./services";
 import ImageGallery from "./image-gallery";
