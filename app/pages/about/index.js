@@ -1,5 +1,5 @@
 import React from "react";
-import Link from "next/link";
+
 import Image from "next/image";
 
 import HeaderTwo from "../../src/components/Header/HeaderTwo";
@@ -247,7 +247,7 @@ const About = () => {
                               placeholder="Name"
                               value=""
                               type="text"
-                              name="your-name"
+                              strokeWidth="your-strokeWidth"
                               required
                             />
                           </div>
@@ -258,7 +258,7 @@ const About = () => {
                               placeholder="Email"
                               value=""
                               type="email"
-                              name="your-email"
+                              strokeWidth="your-email"
                               required
                             />
                           </div>
@@ -268,7 +268,7 @@ const About = () => {
                               placeholder="Title"
                               value=""
                               type="text"
-                              name="your-subject"
+                              strokeWidth="your-subject"
                               required
                             />
                           </div>
@@ -276,7 +276,7 @@ const About = () => {
                             <textarea
                               aria-invalid="false"
                               placeholder="Message"
-                              name="message"
+                              strokeWidth="message"
                             ></textarea>
                           </div>
                           <div className="ms-cf--bottom">

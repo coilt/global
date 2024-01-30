@@ -1,4 +1,5 @@
 "use client";
+import React from "react";
 import { useRef, useEffect } from "react";
 import Image from "next/image";
 
@@ -67,7 +68,7 @@ const HomeSlider = () => {
                   <br />
                   magnetic mindshare. Synergistically exploit
                   <br />
-                  efficient partnerships world-class applications.
+                  efficient partnerships world-className applications.
                 </p>
                 <div className="btn-wrap">
                   <a className="btn btn-circle btn--md" role="button" href="#0">

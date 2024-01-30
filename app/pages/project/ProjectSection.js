@@ -50,7 +50,7 @@ const ProjectSection = () => {
                                                     <div className="p-list-item__icon">
                                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384.67 384.67">
                                                             <g>
-                                                                <path fill-rule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
+                                                                <path fillRule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
                                                                 </path>
                                                             </g>
                                                         </svg>
@@ -84,7 +84,7 @@ const ProjectSection = () => {
                                                     <div className="p-list-item__icon">
                                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384.67 384.67">
                                                             <g>
-                                                                <path fill-rule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
+                                                                <path fillRule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
                                                                 </path>
                                                             </g>
                                                         </svg>
@@ -118,7 +118,7 @@ const ProjectSection = () => {
                                                     <div className="p-list-item__icon">
                                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384.67 384.67">
                                                             <g>
-                                                                <path fill-rule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
+                                                                <path fillRule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
                                                                 </path>
                                                             </g>
                                                         </svg>
@@ -151,7 +151,7 @@ const ProjectSection = () => {
                                                     <div className="p-list-item__icon">
                                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384.67 384.67">
                                                             <g>
-                                                                <path fill-rule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
+                                                                <path fillRule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
                                                                 </path>
                                                             </g>
                                                         </svg>
@@ -184,7 +184,7 @@ const ProjectSection = () => {
                                                     <div className="p-list-item__icon">
                                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384.67 384.67">
                                                             <g>
-                                                                <path fill-rule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
+                                                                <path fillRule="evenodd" d="M0 45.26l276.05 276.05H22.63v63.36h362.04V22.63h-63.36v253.42L45.26 0 0 45.26z">
                                                                 </path>
                                                             </g>
                                                         </svg>

@@ -207,28 +207,28 @@ function SinglePost() {
                 <div className="ms-section__comments">
                     <div id="respond" className="comment-respond">
                         <h2 id="reply-title">Leave a Reply <a rel="nofollow" id="cancel-comment-reply-link" href="#0">Cancel Reply</a></h2>
-                        <form action="#0" method="post" id="commentform" className="row" novalidate="">
+                        <form action="#0" method="post" id="commentform" className="row" noValidate="">
                             <p className="comment-notes">
                                 <span id="email-notes">Your email address will not be published.</span>
                                 <span className="required-field-message">Required fields are marked <span className="required">*</span></span>
                             </p>
                             <div className="form-group form-comment col-12">
-                                <textarea id="ms-comment" className="form-control" placeholder="Your Comment" name="comment" rows="8" required="required"></textarea>
+                                <textarea id="ms-comment" className="form-control" placeholder="Your Comment" strokeWidth="comment" rows="8" required="required"></textarea>
                             </div>
                             <div className="form-group form-comment col-md-6">
-                                <input id="ms-author" name="author" type="text" className="form-control" placeholder="Name" value="" required="required" />
+                                <input id="ms-author" strokeWidth="author" type="text" className="form-control" placeholder="Name" value="" required="required" />
                             </div>
                             <div className="form-group form-comment col-md-6">
-                                <input id="ms-email" name="email" className="form-control" placeholder="Email" type="text" value="" required="required" />
+                                <input id="ms-email" strokeWidth="email" className="form-control" placeholder="Email" type="text" value="" required="required" />
                             </div>
                             <p className="comment-form-cookies-consent">
-                                <input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" />
-                                <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+                                <input id="wp-comment-cookies-consent" strokeWidth="wp-comment-cookies-consent" type="checkbox" value="yes" />
+                                <label htmlFor="wp-comment-cookies-consent">Save my strokeWidth, email, and website in this browser for the next time I comment.</label>
                             </p>
                             <p className="form-submit">
                                 <button type="submit" id="submit" className="btn--comments" data-title="Post Comment">Post Comment</button>
-                                <input type="hidden" name="comment_post_ID" value="29" id="comment_post_ID" />
-                                <input type="hidden" name="comment_parent" id="comment_parent" value="0" />
+                                <input type="hidden" strokeWidth="comment_post_ID" value="29" id="comment_post_ID" />
+                                <input type="hidden" strokeWidth="comment_parent" id="comment_parent" value="0" />
                             </p>
                         </form>
                     </div>

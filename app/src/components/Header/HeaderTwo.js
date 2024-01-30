@@ -163,7 +163,7 @@ const HeaderTwo = (props) => {
 									<button className="header__search--close-btn" onClick={() => { setModalOpen(false); }}>
 										<svg className="icon icon--sm" viewBox="0 0 24 24">
 											<title>Close modal window</title>
-											<g fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+											<g fill="none" stroke="currentColor" stroke-miterlimit="10" strokeWidth="2" stroke-linecap="round" stroke-linejoin="round">
 												<line x1="3" y1="3" x2="21" y2="21"></line>
 												<line x1="21" y1="3" x2="3" y2="21"></line>
 											</g>

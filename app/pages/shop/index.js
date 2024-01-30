@@ -32,7 +32,7 @@ const Shop = () => {
                                 <p className="woocommerce-result-count">
                                     Showing 1–6 of 7 results</p>
                                 <form className="woocommerce-ordering" method="get">
-                                    <select name="orderby" className="orderby" aria-label="Shop order">
+                                    <select strokeWidth="orderby" className="orderby" aria-label="Shop order">
                                         <option value="menu_order" selected="selected">Default sorting</option>
                                         <option value="popularity">Sort by popularity</option>
                                         <option value="rating">Sort by average rating</option>
@@ -40,7 +40,7 @@ const Shop = () => {
                                         <option value="price">Sort by price: low to high</option>
                                         <option value="price-desc">Sort by price: high to low</option>
                                     </select>
-                                    <input type="hidden" name="paged" value="1" />
+                                    <input type="hidden" strokeWidth="paged" value="1" />
                                 </form>
                             </div>
                             <div className="row ms-woo-feed">

@@ -23,7 +23,7 @@ const HomeSixProject = () => {
                                     <span className="load_filter">
                                         <svg className="load-filter-icon" width="100%" height="100%"
                                             viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
-                                            <circle cx="50" cy="50" r="30" stroke-width="6" stroke-linecap="round"
+                                            <circle cx="50" cy="50" r="30" strokeWidth="6" strokeLinecap="round"
                                                 fill="none">
                                                 <animateTransform attributeName="transform" type="rotate"
                                                     repeatCount="indefinite" dur="1s"
@@ -60,7 +60,7 @@ const HomeSixProject = () => {
                                     <span className="load_filter">
                                         <svg className="load-filter-icon" width="100%" height="100%"
                                             viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
-                                            <circle cx="50" cy="50" r="30" stroke-width="6" stroke-linecap="round"
+                                            <circle cx="50" cy="50" r="30" strokeWidth="6" strokeLinecap="round"
                                                 fill="none">
                                                 <animateTransform attributeName="transform" type="rotate"
                                                     repeatCount="indefinite" dur="1s"

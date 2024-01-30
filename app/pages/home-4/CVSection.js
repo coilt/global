@@ -44,7 +44,7 @@ const HomeCV = () => {
                                 </p>
                                 <p className="desc">Credibly e-enable standards compliant users rather than front-end
                                     solutions. Enthusiastically harness client-focused action items before corporate
-                                    intellectual capital. Uniquely repurpose world-class infrastructures through
+                                    intellectual capital. Uniquely repurpose world-className infrastructures through
                                     client-centered collaboration and idea-sharing. Progressively mesh magnetic quality
                                     vectors before dynamic markets. Competently leverage existing leading-edge
                                     collaboration and idea-sharing with 2.0 total linkage.
@@ -128,8 +128,8 @@ const HomeCV = () => {
                                                         <ul>
                                                             <li className="active">
                                                                 <i className="icon-check">
-                                                                    <svg viewBox="0 0 24 24" stroke-linecap="round"
-                                                                        stroke-linejoin="round"
+                                                                    <svg viewBox="0 0 24 24" strokeLinecap="round"
+                                                                        strokeLinejoin="round"
                                                                         xmlns="http://www.w3.org/2000/svg">
                                                                         <path d="M20 6L9 17l-5-5"></path>
                                                                     </svg>
@@ -138,8 +138,8 @@ const HomeCV = () => {
                                                             </li>
                                                             <li className="active">
                                                                 <i className="icon-check">
-                                                                    <svg viewBox="0 0 24 24" stroke-linecap="round"
-                                                                        stroke-linejoin="round"
+                                                                    <svg viewBox="0 0 24 24" strokeLinecap="round"
+                                                                        strokeLinejoin="round"
                                                                         xmlns="http://www.w3.org/2000/svg">
                                                                         <path d="M20 6L9 17l-5-5"></path>
                                                                     </svg>
@@ -192,8 +192,8 @@ const HomeCV = () => {
                                                         <ul>
                                                             <li className="active">
                                                                 <i className="icon-check">
-                                                                    <svg viewBox="0 0 24 24" stroke-linecap="round"
-                                                                        stroke-linejoin="round"
+                                                                    <svg viewBox="0 0 24 24" strokeLinecap="round"
+                                                                        strokeLinejoin="round"
                                                                         xmlns="http://www.w3.org/2000/svg">
                                                                         <path d="M20 6L9 17l-5-5"></path>
                                                                     </svg>
@@ -202,8 +202,8 @@ const HomeCV = () => {
                                                             </li>
                                                             <li className="active">
                                                                 <i className="icon-check">
-                                                                    <svg viewBox="0 0 24 24" stroke-linecap="round"
-                                                                        stroke-linejoin="round"
+                                                                    <svg viewBox="0 0 24 24" strokeLinecap="round"
+                                                                        strokeLinejoin="round"
                                                                         xmlns="http://www.w3.org/2000/svg">
                                                                         <path d="M20 6L9 17l-5-5"></path>
                                                                     </svg>
@@ -256,8 +256,8 @@ const HomeCV = () => {
                                                         <ul>
                                                             <li className="active">
                                                                 <i className="icon-check">
-                                                                    <svg viewBox="0 0 24 24" stroke-linecap="round"
-                                                                        stroke-linejoin="round"
+                                                                    <svg viewBox="0 0 24 24" strokeLinecap="round"
+                                                                        strokeLinejoin="round"
                                                                         xmlns="http://www.w3.org/2000/svg">
                                                                         <path d="M20 6L9 17l-5-5"></path>
                                                                     </svg>
@@ -266,8 +266,8 @@ const HomeCV = () => {
                                                             </li>
                                                             <li className="active">
                                                                 <i className="icon-check">
-                                                                    <svg viewBox="0 0 24 24" stroke-linecap="round"
-                                                                        stroke-linejoin="round"
+                                                                    <svg viewBox="0 0 24 24" strokeLinecap="round"
+                                                                        strokeLinejoin="round"
                                                                         xmlns="http://www.w3.org/2000/svg">
                                                                         <path d="M20 6L9 17l-5-5"></path>
                                                                     </svg>

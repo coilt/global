@@ -214,7 +214,7 @@ const Header = (props) => {
                         fill="none"
                         stroke="currentColor"
                         stroke-miterlimit="10"
-                        stroke-width="2"
+                        strokeWidth="2"
                         stroke-linecap="round"
                         stroke-linejoin="round"
                       >
