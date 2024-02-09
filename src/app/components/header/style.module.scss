@@ -35,10 +35,11 @@
         &::after{
             transform: rotate(45deg);
             top: -1px;
-        }
+            background-color: rgb(214, 214, 214);        }
         &::before{
             transform: rotate(-45deg);
             top: 0px;
+            background-color: rgb(214, 214, 214);
         }
     }
 }
