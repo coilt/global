@@ -43,6 +43,7 @@ a[j] = x;
     return delays.map ((randomDelay, i) => {
       return (
       <motion.div 
+      key={i}
       className={sytles.block}
       variants={anim}
       initial='initial'
