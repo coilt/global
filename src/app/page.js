@@ -3,7 +3,7 @@ import styles from './page.module.scss'
 import { useState } from 'react';
 import Header from './components/header';
 import Menu from './components/menu';
-import CenteredPixelTransition from './components/pixelBackground/centered/index.jsx';
+import CenteredPixelTransition from './components/pixelTransition/centered/index.jsx';
  
  
 
